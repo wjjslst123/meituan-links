@@ -1,0 +1,38 @@
+[
+  {
+    "title": "商家券 V6",
+    "url": "https://offsiteact.meituan.com/web/hoae/collection_waimai_v6/index.html",
+    "type": "H5_VOUCHER",
+    "enabled": true
+  },
+  {
+    "title": "商家券 V8",
+    "url": "https://offsiteact.meituan.com/web/hoae/collection_waimai_v8/index.html",
+    "type": "H5_VOUCHER",
+    "enabled": true
+  },
+  {
+    "title": "AI神券领取",
+    "url": "https://zw5.xin/",
+    "type": "MINI_PROGRAM",
+    "enabled": true
+  },
+  {
+    "title": "美团神券 / 红包",
+    "url": "#小程序://美团/TrS154hlyu1DXYw",
+    "type": "MINI_PROGRAM",
+    "enabled": true
+  },
+  {
+    "title": "外卖奶茶水果",
+    "url": "#小程序://美团外卖丨外卖美食奶茶咖啡水果/oMUUz1tXHndrisy",
+    "type": "MINI_PROGRAM",
+    "enabled": true
+  },
+  {
+    "title": "惠省吃喝玩乐",
+    "url": "#小程序://美团惠省吃喝玩乐样样省/IeJFVIIsUpsZZWs",
+    "type": "MINI_PROGRAM",
+    "enabled": true
+  }
+]
