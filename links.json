@@ -35,4 +35,10 @@
     "type": "MINI_PROGRAM",
     "enabled": true
   }
+  {
+    "title": "七日签到",
+    "url": "#小程序://美团惠省吃喝玩乐样样省/x98viRAbzaVbjDG",
+    "type": "MINI_PROGRAM",
+    "enabled": true
+  }
 ]
